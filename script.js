@@ -1,4 +1,3 @@
-
 console.log("Az RPG weboldal JavaScriptje betöltődött!");
 
 const cim = document.querySelector("h1");
